@@ -1,7 +1,7 @@
 Gallery
 =======
 
-Small application created to understand how to create an image gallery using 'fancybox'.
+A small application built to understand how to create an image gallery using <i>fancybox</i>.
 
 <img src='./images/screenshots/screen1.png'>
 <img src='./images/screenshots/screen2.png'>
