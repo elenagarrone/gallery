@@ -1,0 +1,10 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    magnific-popup-rails (0.9.9.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  magnific-popup-rails
