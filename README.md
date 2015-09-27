@@ -11,7 +11,7 @@ Technologies:
 - HTML
 - CSS
 - JavaScript
-- Flexibox
+- Fancybox
 
 How to use:
 -----------
